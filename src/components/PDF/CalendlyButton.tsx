@@ -9,7 +9,7 @@ interface CalendlyButtonProps {
 const CalendlyButton: React.FC<CalendlyButtonProps> = ({ secret }) => {
   return (
     <ButtonLink
-      href='calendly.com/amanda-gerard-calendar'
+      href='https://calendly.com/amanda-gerard-calendar'
       size="lg"
       target="_blank"
       rel="noopener noreferrer"
